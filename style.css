@@ -1,0 +1,41 @@
+
+input[type=text], input[type=password], input[type=email] {
+    border: 1px solid grey;
+    border-radius: 10px;
+	text-align: center;
+	padding: 5px 5px;
+	width: 100%;
+	/*margin-left: 35%;*/
+}
+
+ input[type=submit] { 
+ 	width: 100%; 
+ 	/*margin-left: 43%;*/
+ } 
+
+.centerInscription {
+	text-align: center;
+	margin: auto;
+	/*min-width: 200px;
+	width: 31%;*/
+}
+
+.centerRegenererPassword{
+	text-align: center;
+	margin: auto;
+	min-width: 200px;
+	width: 31%;
+}
+p
+{
+	text-align: center;
+}
+h1
+{
+	text-align: center;
+}
+
+td
+{
+	text-align : right;
+}
