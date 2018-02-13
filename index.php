@@ -38,7 +38,7 @@ if(isset($_POST['connexion'])) {
 	</head>
 	<body>
 	<div class="centerConnexion">
-		<h1>espace membre</h1><br />
+		<h1>Membre de cryobanque virtuelle</h1><br />
 		<form action="index.php" method="post">
 			<input type="text" name="emailconnexion" placeholder="adresse mail" /><br />
 			<p></p>
