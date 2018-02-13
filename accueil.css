@@ -1,0 +1,47 @@
+.main_container {
+    width: 1080px;
+	height:800px;
+	background-color: #d5d5d5;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.banner_container {
+    width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav_container{
+	
+}
+
+.principal_container{
+	
+}
+
+.footer_container{
+	
+}
+
+
+
+.button {
+    background-color: #191970; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 4px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button:hover{
+	background-color: white;
+    color: black;
+}
